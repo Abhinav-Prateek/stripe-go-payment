@@ -49,11 +49,6 @@ stripe trigger [event_type]
 
 > [Here](https://stripe.com/docs/api/events/types) you can find a list of all Stripe event types.
 
-![alt text](img/subscription.png)
-<p align="center"><i>Subscription model</i></p>
-
-![alt text](img/cancellation_flow.png)
-<p align="center"><i>Cancellation flow</i></p>
 
 ![alt text](img/flowchart.png)
 <p align="center"><i>Flowchart</i></p>
